@@ -21,3 +21,4 @@ def calcular_super_fatorial_rota(numero):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
